@@ -1,9 +1,10 @@
 
-
 <div align="center">
-<div align="center">
-  <img src="2DCA52F3-41AC-4BD0-8FC1-AB0DAE3B78C9.PNG" alt="Helperton logo" width="160" />
+  <img src="assets/logo.png" alt="Helperton logo" width="160" />
 </div>
+
+<br/>
+>
 
 <br/>
 
