@@ -1,9 +1,15 @@
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/helpertonshare/helpertonshare/256d22253dd42a24a362a99f7937a43705b5f157/assets/logo.PNG" alt="Helperton logo" width="160" />
+  <a href="https://helperton.com">
+    <img 
+      src="https://raw.githubusercontent.com/helpertonshare/helpertonshare/256d22253dd42a24a362a99f7937a43705b5f157/assets/logo.PNG" 
+      alt="Helperton logo" 
+      width="160"
+    />
+  </a>
 </div>
 
 <br/>
+
 
 
 <br/>
