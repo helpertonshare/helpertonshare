@@ -1,16 +1,24 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**helpertonshare/helpertonshare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Helperton
 
-Here are some ideas to get you started:
+**Practical, human accountability support**  
+Helping people get unstuck, take action, and follow through — one clear step at a time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Visit Helperton](https://helperton.com) • [Get Started](https://helperton.com/#contact)
+
+</div>
+
+---
+
+## What this is
+Helperton exists for moments when life feels heavy, chaotic, or overwhelming.
+This is accountability without shame, pressure, or unrealistic expectations.
+
+## What you can expect
+- Clear, supportive check-ins  
+- Simple action planning  
+- Real-world follow-through  
+
+## Start here
+👉 https://helperton.com/#contact
