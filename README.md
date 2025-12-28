@@ -24,11 +24,11 @@
 <div align="center">
 
 <a href="https://helperton.com">
-  <img src="https://img.shields.io/badge/Visit%20Website-2E7D65?style=flat-square&labelColor=2E7D65">
+  <img src="https://img.shields.io/badge/Visit%20Website-2E7D65?style=flat-square&labelColor=2E7D65" alt="Visit Website">
 </a>
 &nbsp;&nbsp;
 <a href="https://www.helperton.com/account/signin/client">
-  <img src="https://img.shields.io/badge/Client%20Portal%20Login-2E7D65?style=flat-square&labelColor=2E7D65">
+  <img src="https://img.shields.io/badge/Client%20Portal%20Login-2E7D65?style=flat-square&labelColor=2E7D65" alt="Client Portal Login">
 </a>
 
 </div>
@@ -69,11 +69,11 @@ Helperton is for people who:
 <div align="center">
 
 <a href="tel:3613330289">
-  <img src="https://img.shields.io/badge/Call%20361-333-0289-2E7D65?style=flat-square&labelColor=2E7D65">
+  <img src="https://img.shields.io/badge/Call%20361%2D333%2D0289-2E7D65?style=flat-square&labelColor=2E7D65" alt="Call 361-333-0289">
 </a>
 &nbsp;&nbsp;
 <a href="mailto:helperton.mail@gmail.com">
-  <img src="https://img.shields.io/badge/Email%20helperton.mail@gmail.com-2E7D65?style=flat-square&labelColor=2E7D65">
+  <img src="https://img.shields.io/badge/Email%20helperton.mail%40gmail.com-2E7D65?style=flat-square&labelColor=2E7D65" alt="Email helperton.mail@gmail.com">
 </a>
 
 </div>
@@ -86,12 +86,18 @@ Helperton is for people who:
 
 <hr style="border: none; height: 1px; background: #DADADA; width: 60%; margin: 40px auto;" />
 
-<p align="center" style="font-size: 12px; color: #888;">
-  © Helperton • Practical accountability support<br/>
-  <a href="https://helperton.com" style="color:#888; text-decoration:none;">
-    helperton.com
-  </a>
-</p>
+<div align="center">
 
-  </a>
-</p>
+<img 
+  src="https://raw.githubusercontent.com/helpertonshare/helpertonshare/256d22253dd42a24a362a99f7937a43705b5f157/assets/logo.PNG" 
+  alt="Helperton logo small" 
+  width="70"
+/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Helperton-Practical%20accountability%20support-2E7D65?style=flat-square&labelColor=2E7D65" alt="Helperton badge">
+
+</div>
+
+
