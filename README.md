@@ -64,15 +64,29 @@ Helperton is for people who:
 
 ---
 
-## Where to begin
+## Contact
 
 <div align="center">
 
 <a href="https://helperton.com/#contact">
-  <img src="https://img.shields.io/badge/Begin%20with%20a%20check--in-2E7D65?style=flat-square&labelColor=2E7D65">
+  <img src="https://img.shields.io/badge/Contact%20Us-2E7D65?style=flat-square&labelColor=2E7D65">
+</a>
+&nbsp;&nbsp;
+<a href="tel:13613330289">
+  <img src="https://img.shields.io/badge/Call%20361--333--0289-2E7D65?style=flat-square&labelColor=2E7D65">
+</a>
+&nbsp;&nbsp;
+<a href="mailto:helperton.mail@gmail.com">
+  <img src="https://img.shields.io/badge/Email%20Us-2E7D65?style=flat-square&labelColor=2E7D65">
 </a>
 
 </div>
+
+<br/>
+
+<p align="center" style="font-size: 14px; color: #555;">
+  Prefer to talk it through? Reach out in whatever way feels easiest.
+</p>
 
 <br/>
 
