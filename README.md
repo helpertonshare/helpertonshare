@@ -1,17 +1,12 @@
+
+
 <div align="center">
-  <img src="assets/2DCA52F3-41AC-4BD0-8FC1-AB0DAE3B78C9.PNG" alt="Helperton logo" width="160" />
+<div align="center">
+  <img src="2DCA52F3-41AC-4BD0-8FC1-AB0DAE3B78C9.PNG" alt="Helperton logo" width="160" />
 </div>
 
 <br/>
 
-
-
-<div align="center">
-  <img 
-    src="assets/2DCA52F3-41AC-4BD0-8FC1-AB0DAE3B78C9.PNG" 
-    alt="Helperton logo" 
-    width="140"
-  />
 </div>
 
 <br/>
