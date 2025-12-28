@@ -66,19 +66,10 @@ Helperton is for people who:
 
 ## Get in touch
 
-<div align="center">
-
-<a href="tel:3613330289">
-  <img src="https://img.shields.io/badge/Call%20361%2D333%2D0289-2E7D65?style=flat-square&labelColor=2E7D65" alt="Call 361-333-0289">
-</a>
-&nbsp;&nbsp;
-<a href="mailto:helperton.mail@gmail.com">
-  <img src="https://img.shields.io/badge/Email%20helperton.mail%40gmail.com-2E7D65?style=flat-square&labelColor=2E7D65" alt="Email helperton.mail@gmail.com">
-</a>
-
-</div>
-
-<br/>
+<p align="center" style="font-size: 15px;">
+  <strong>Call:</strong> 361-333-0289<br/>
+  <strong>Email:</strong> helperton.mail@gmail.com
+</p>
 
 <p align="center" style="font-size: 14px; color: #555;">
   Reach out in whatever way feels easiest.
@@ -87,17 +78,14 @@ Helperton is for people who:
 <hr style="border: none; height: 1px; background: #DADADA; width: 60%; margin: 40px auto;" />
 
 <div align="center">
-
-<img 
-  src="https://raw.githubusercontent.com/helpertonshare/helpertonshare/256d22253dd42a24a362a99f7937a43705b5f157/assets/logo.PNG" 
-  alt="Helperton logo small" 
-  width="70"
-/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Helperton-Practical%20accountability%20support-F5F5F5?style=flat-square&labelColor=FFFFFF" alt="Helperton badge">
-
+  <img 
+    src="https://raw.githubusercontent.com/helpertonshare/helpertonshare/256d22253dd42a24a362a99f7937a43705b5f157/assets/logo.PNG" 
+    alt="Helperton logo small" 
+    width="70"
+  />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Helperton-Practical%20accountability%20support-2E7D65?style=flat-square&labelColor=2E7D65" alt="Helperton badge">
 </div>
+
 
 
