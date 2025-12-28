@@ -28,7 +28,18 @@
 **Practical, human accountability support**  
 Helping people get unstuck, take action, and follow through — one clear step at a time.
 
-[Visit Helperton](https://helperton.com) • [Get Started](https://helperton.com/#contact)
+<div align="center">
+
+<a href="https://helperton.com">
+  <img src="https://img.shields.io/badge/Visit%20Helperton-2DCA52?style=for-the-badge&logo=google-chrome&logoColor=white">
+</a>
+&nbsp;
+<a href="https://helperton.com/#contact">
+  <img src="https://img.shields.io/badge/Get%20Started-2DCA52?style=for-the-badge&logo=maildotru&logoColor=white">
+</a>
+
+</div>
+
 
 </div>
 
