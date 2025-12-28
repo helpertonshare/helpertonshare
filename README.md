@@ -64,20 +64,16 @@ Helperton is for people who:
 
 ---
 
-## Contact
+## Get in touch
 
 <div align="center">
 
-<a href="https://helperton.com/#contact">
-  <img src="https://img.shields.io/badge/Contact%20Us-2E7D65?style=flat-square&labelColor=2E7D65">
-</a>
-&nbsp;&nbsp;
-<a href="tel:13613330289">
-  <img src="https://img.shields.io/badge/Call%20361--333--0289-2E7D65?style=flat-square&labelColor=2E7D65">
+<a href="tel:3613330289">
+  <img src="https://img.shields.io/badge/Call%20361-333-0289-2E7D65?style=flat-square&labelColor=2E7D65">
 </a>
 &nbsp;&nbsp;
 <a href="mailto:helperton.mail@gmail.com">
-  <img src="https://img.shields.io/badge/Email%20Us-2E7D65?style=flat-square&labelColor=2E7D65">
+  <img src="https://img.shields.io/badge/Email%20helperton.mail@gmail.com-2E7D65?style=flat-square&labelColor=2E7D65">
 </a>
 
 </div>
@@ -85,10 +81,8 @@ Helperton is for people who:
 <br/>
 
 <p align="center" style="font-size: 14px; color: #555;">
-  Prefer to talk it through? Reach out in whatever way feels easiest.
+  Reach out in whatever way feels easiest.
 </p>
-
-<br/>
 
 <hr style="border: none; height: 1px; background: #DADADA; width: 60%; margin: 40px auto;" />
 
@@ -96,5 +90,8 @@ Helperton is for people who:
   © Helperton • Practical accountability support<br/>
   <a href="https://helperton.com" style="color:#888; text-decoration:none;">
     helperton.com
+  </a>
+</p>
+
   </a>
 </p>
