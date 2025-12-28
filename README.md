@@ -10,8 +10,6 @@
 
 <br/>
 
-<h1 align="center">Helperton</h1>
-
 <p align="center">
   <strong>Practical, human accountability support</strong><br/>
   Helping people get unstuck, take action, and follow through — one clear step at a time.
@@ -25,11 +23,11 @@
 
 <div align="center" style="font-size: 15px;">
   <a href="https://helperton.com" style="color:#2E7D65; text-decoration:none; font-weight:600;">
-    Visit Helperton
+    Visit the website
   </a>
   &nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="https://helperton.com/#contact" style="color:#2E7D65; text-decoration:none; font-weight:600;">
-    Get Started
+    Start a conversation
   </a>
 </div>
 
@@ -64,21 +62,21 @@ Helperton is for people who:
 
 ---
 
-## Where to start
+## Where to begin
 
 <div align="center">
   <a href="https://helperton.com/#contact" style="color:#2E7D65; text-decoration:none; font-weight:600;">
-    → Start with a simple conversation
+    → Begin with a simple check-in
   </a>
 </div>
 
 <br/>
 
-<hr style="border: none; height: 1px; background: #E0E0E0; width: 60%; margin: 40px auto;" />
+<hr style="border: none; height: 1px; background: #DADADA; width: 60%; margin: 40px auto;" />
 
-<p align="center" style="font-size: 12px; color: #777;">
+<p align="center" style="font-size: 12px; color: #888;">
   © Helperton • Practical accountability support<br/>
-  <a href="https://helperton.com" style="color:#2E7D65; text-decoration:none;">
+  <a href="https://helperton.com" style="color:#888; text-decoration:none;">
     helperton.com
   </a>
 </p>
