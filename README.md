@@ -25,6 +25,62 @@
 
 <a href="https://helperton.com">
   <img src="https://img.shields.io/badge/Visit%20Website-2E7D65?style=flat-square&labelColor=2E7D65">
-<
+</a>
+&nbsp;&nbsp;
+<a href="https://helperton.com/#contact">
+  <img src="https://img.shields.io/badge/Start%20a%20Conversation-2E7D65?style=flat-square&labelColor=2E7D65">
+</a>
 
+</div>
 
+<br/>
+
+---
+
+## What Helperton does
+
+Helperton exists for moments when life feels heavy, chaotic, or overwhelming.
+
+This is accountability without shame, pressure, or unrealistic expectations.  
+No hype. No forcing motivation. Just steady support, clarity, and follow-through.
+
+---
+
+## How this helps
+
+- Clear, supportive check-ins  
+- Simple, realistic action planning  
+- Follow-through that works in real life  
+- Momentum built gently, not forced  
+
+---
+
+## Who this is for
+
+Helperton is for people who:
+- Feel stuck or overloaded  
+- Know what they *should* do but struggle to follow through  
+- Want support that’s grounded, human, and practical  
+
+---
+
+## Where to begin
+
+<div align="center">
+
+<a href="https://helperton.com/#contact">
+  <img src="https://img.shields.io/badge/Begin%20with%20a%20check--in-2E7D65?style=flat-square&labelColor=2E7D65">
+</a>
+
+</div>
+
+<br/>
+
+<hr style="border: none; height: 1px; background: #DADADA; width: 60%; margin: 40px auto;" />
+
+<p align="center" style="font-size: 12px; color: #888;">
+  © Helperton • Practical accountability support<br/>
+  <a href="https://helperton.com" style="color:#888; text-decoration:none;">
+    helperton.com
+  </a>
+</p>
