@@ -49,7 +49,7 @@ Helping people get unstuck, take action, and follow through — one clear step a
 
 ---
 
-## What this is
+## What Helperton does
 Helperton exists for moments when life feels heavy, chaotic, or overwhelming.
 This is accountability without shame, pressure, or unrealistic expectations.
 
