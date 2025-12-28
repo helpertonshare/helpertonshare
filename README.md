@@ -1,7 +1,10 @@
 
 <div align="center">
-  <img src="assets/logo.png" alt="Helperton logo" width="160" />
+  <img src="https://raw.githubusercontent.com/helpertonshare/helpertonshare/256d22253dd42a24a362a99f7937a43705b5f157/assets/logo.PNG" alt="Helperton logo" width="160" />
 </div>
+
+<br/>
+
 
 <br/>
 >
