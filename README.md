@@ -27,8 +27,8 @@
   <img src="https://img.shields.io/badge/Visit%20Website-2E7D65?style=flat-square&labelColor=2E7D65">
 </a>
 &nbsp;&nbsp;
-<a href="https://helperton.com/#contact">
-  <img src="https://img.shields.io/badge/Start%20a%20Conversation-2E7D65?style=flat-square&labelColor=2E7D65">
+<a href="https://helperton.com/login">
+  <img src="https://img.shields.io/badge/Client%20Portal%20Login-2E7D65?style=flat-square&labelColor=2E7D65">
 </a>
 
 </div>
@@ -75,6 +75,16 @@ Helperton is for people who:
 </div>
 
 <br/>
+
+<hr style="border: none; height: 1px; background: #DADADA; width: 60%; margin: 40px auto;" />
+
+<p align="center" style="font-size: 12px; color: #888;">
+  © Helperton • Practical accountability support<br/>
+  <a href="https://helperton.com" style="color:#888; text-decoration:none;">
+    helperton.com
+  </a>
+</p>
+
 
 <hr style="border: none; height: 1px; background: #DADADA; width: 60%; margin: 40px auto;" />
 
