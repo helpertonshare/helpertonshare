@@ -33,11 +33,11 @@ Helping people get unstuck, take action, and follow through — one clear step a
 <div align="center">
 
 <a href="https://helperton.com">
-  <img src="https://img.shields.io/badge/Visit%20Helperton-HEXCOLOR?style=for-the-badge&logo=google-chrome&logoColor=white">
+  <img src="https://img.shields.io/badge/Visit%20Helperton-2F8F6A?style=for-the-badge&logo=google-chrome&logoColor=white">
 </a>
 &nbsp;
 <a href="https://helperton.com/#contact">
-  <img src="https://img.shields.io/badge/Get%20Started-HEXCOLOR?style=for-the-badge&logo=maildotru&logoColor=white">
+  <img src="https://img.shields.io/badge/Get%20Started-2F8F6A?style=for-the-badge&logo=maildotru&logoColor=white">
 </a>
 
 
