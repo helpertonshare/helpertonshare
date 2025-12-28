@@ -59,4 +59,9 @@ This is accountability without shame, pressure, or unrealistic expectations.
 - Real-world follow-through  
 
 ## Start here
-👉 https://helperton.com/#contact
+<div align="center">
+  <a href="https://helperton.com/#contact">
+    <img src="https://img.shields.io/badge/Start%20Here-2E7D65?style=for-the-badge&logo=arrow-right&logoColor=white">
+  </a>
+</div>
+
