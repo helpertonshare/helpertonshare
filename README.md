@@ -77,15 +77,7 @@ Helperton is for people who:
 
 <hr style="border: none; height: 1px; background: #DADADA; width: 60%; margin: 40px auto;" />
 
-<div align="center">
-  <img 
-    src="https://raw.githubusercontent.com/helpertonshare/helpertonshare/256d22253dd42a24a362a99f7937a43705b5f157/assets/logo.PNG" 
-    alt="Helperton logo small" 
-    width="70"
-  />
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Helperton-Practical%20accountability%20support-2E7D65?style=flat-square&labelColor=2E7D65" alt="Helperton badge">
-</div>
+
 
 
 
