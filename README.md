@@ -96,7 +96,7 @@ Helperton is for people who:
 
 <br/>
 
-<img src="https://img.shields.io/badge/Helperton-Practical%20accountability%20support-2E7D65?style=flat-square&labelColor=2E7D65" alt="Helperton badge">
+<img src="https://img.shields.io/badge/Helperton-Practical%20accountability%20support-000000?style=flat-square&labelColor=FFFFFF" alt="Helperton badge">
 
 </div>
 
